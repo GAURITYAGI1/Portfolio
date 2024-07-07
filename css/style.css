@@ -1567,9 +1567,9 @@ ol {
     padding: 0 15px;
 /*     background-color:#000; */
   }
-    .hero__slider owl-carousel{
+    .hero__item set-bg{
       background-color: #000;
-      background-image:none;
+      background-image:hidden;
   }
 
   .slicknav_menu {
