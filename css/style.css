@@ -170,9 +170,9 @@ ol {
   border-top: 2px solid #00bfe7;
   content: "";
   z-index: -1;
-  -webkit-transition: all, 0.7s;
-  -o-transition: all, 0.7s;
-  transition: all, 0.7s;
+  -webkit-transition: all, 0.9s;
+  -o-transition: all, 0.9s;
+  transition: all, 0.9s;
 }
 .primary-btn:after {
   position: absolute;
@@ -184,9 +184,9 @@ ol {
   border-bottom: 2px solid #00bfe7;
   content: "";
   z-index: -1;
-  -webkit-transition: all, 0.7s;
-  -o-transition: all, 0.7s;
-  transition: all, 0.7s;
+  -webkit-transition: all, 0.9s;
+  -o-transition: all, 0.9s;
+  transition: all, 0.9s;
 }
 
 .site-btn {
@@ -478,7 +478,7 @@ ol {
   margin-bottom: 38px;
   position: relative;
   top: 100px;
-  opacity: 0;
+  opacity: 1;
 /*   -webkit-transition: all, 0.7s;
   -o-transition: all, 0.7s;
   transition: all, 0.7s; */
