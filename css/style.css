@@ -1327,8 +1327,8 @@ ol {
 /*--------------------------------- Responsive Media Quaries -----------------------------*/
 @media only screen and (min-width: 1200px) {
   .container {
-/*     max-width: 1170px; */
-    max-width:100vw;
+    max-width: 1170px;
+/*     max-width:100vw; */
   }
 }
 /* Medium Device = 1200px */
