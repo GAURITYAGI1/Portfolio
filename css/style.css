@@ -1374,7 +1374,6 @@ ol {
   .hero__slider.owl-carousel .owl-dots {
     max-width: 690px !important;
     background-color:black;
-    text-align:center;
   }
 
   .services__title {
@@ -1566,6 +1565,7 @@ ol {
   .hero__slider.owl-carousel .owl-dots {
     max-width: auto;
     padding: 0 15px;
+    background-color:#000;
     
   }
 
