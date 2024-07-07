@@ -1376,7 +1376,6 @@ ol {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .hero__slider.owl-carousel .owl-dots {
     max-width: 690px !important;
-    background-color:black;
   }
 
   .services__title {
@@ -1503,7 +1502,7 @@ ol {
   .services__title {
     margin-bottom: 50px;
   }
-
+  
   .counter__item {
     -webkit-transform: rotate(0);
     -ms-transform: rotate(0);
@@ -1573,12 +1572,16 @@ ol {
     .hero__item set-bg{
       background-color: #000;
       background-image:hidden;
+    }
+  
+  .hero__slider{
+    background-color:black;
   }
-
   .slicknav_menu {
     background: transparent;
     padding: 0;
     display: block;
+    position:fixed;
   }
 
   .slicknav_nav ul {
