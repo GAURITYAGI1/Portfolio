@@ -1672,6 +1672,9 @@ ol {
 }
 /* Small Device = 320px */
 @media only screen and (max-width: 479px) {
+  body{
+    overflow:hidden;
+  }
   .hero__text h2 {
     font-size: 30px;
     line-height: 40px;
