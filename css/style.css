@@ -422,7 +422,8 @@ ol {
   margin: 0 0 6% 10%;
 }
 .hero__slider.owl-carousel .owl-dots button {
-  color: #adadad;
+/*   color: #adadad; */
+  color:#fff;
   font-size: 18px;
   font-family: "Play", sans-serif;
   margin-right: 16px;
