@@ -948,6 +948,9 @@ ol {
   margin-right: 32px;
   position: relative;
 }
+.breadcrumb_links p{
+  color:#fff;
+}
 .breadcrumb__links a:after {
   position: absolute;
   right: -22px;
