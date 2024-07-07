@@ -1568,7 +1568,8 @@ ol {
 /*     background-color:#000; */
   }
     .hero__slider owl-carousel{
-      background-color:black;
+      background-color: #000;
+      background-image:none;
   }
 
   .slicknav_menu {
