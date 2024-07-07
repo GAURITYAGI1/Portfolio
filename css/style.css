@@ -948,21 +948,20 @@ ol {
   margin-right: 32px;
   position: relative;
 }
-.breadcrumb_links p{
-  color:#fff;
-}
 .breadcrumb__links a:after {
   position: absolute;
   right: -22px;
   top: -3px;
   content: "";
-  color: #adadad;
+/*   color: #adadad; */
+  color: #ffffff;
   font-size: 20px;
   padding:10px;
 }
 .breadcrumb__links span {
   font-size: 16px;
-  color: #adadad;
+/*   color: #adadad; */
+  color: #ffffff;
   font-weight: 300;
   display: inline-block;
 }
