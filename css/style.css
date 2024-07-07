@@ -1581,7 +1581,7 @@ ol {
     background: transparent;
     padding: 0;
     display: block;
-    position:fixed;
+/*     position:fixed; */
   }
 
   .slicknav_nav ul {
