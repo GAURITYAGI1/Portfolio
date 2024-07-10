@@ -1349,7 +1349,7 @@ background: linear-gradient(to right, #434343, #000000);
 /* Education Section */
 /* --------------------------------------------------------------------- */
 .education {
-background-color:black;
+background-color:url(0, 0, 0, 0.3);
 color:white;
 padding-top:  50px;
 }
