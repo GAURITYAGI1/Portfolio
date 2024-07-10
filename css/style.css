@@ -1378,7 +1378,7 @@ padding-top:  50px;
 }
 span.single-timeline-horizontal {
     display:  inline-block;
-/*     background: #b2c1ce; */
+    background: white;
     height:  1px;
     width: 380px;
 }
