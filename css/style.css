@@ -1349,12 +1349,9 @@ background: linear-gradient(to right, #434343, #000000);
 /* Education Section */
 /* --------------------------------------------------------------------- */
 .education {
-/*   background: #43C6AC; 
+  background: #43C6AC; 
   background: -webkit-linear-gradient(to top, #191654, #43C6AC);
-  background: linear-gradient(to top, #191654, #43C6AC); */
-
-background-color: #8BC6EC;
-background-image: linear-gradient(135deg, #8BC6EC 0%, #020423 100%);
+  background: linear-gradient(to top, #191654, #43C6AC);
 
 color:white;
 padding-top:  50px;
@@ -1369,7 +1366,7 @@ padding-top:  50px;
 .single-horizontal-timeline .experience-time h3{text-transform: capitalize;}
 .single-horizontal-timeline .experience-time h3 span{text-transform:lowercase;}
 .single-horizontal-timeline .timeline-content h5 {margin: 15px 0;}
-.single-horizontal-timeline p {color: white;max-width: 350px; text-align:justify;}
+.single-horizontal-timeline p {color: lavender;max-width: 350px; text-align:justify;}
 
 /*.timeline-horizontal-border*/
 .timeline-horizontal-border {
