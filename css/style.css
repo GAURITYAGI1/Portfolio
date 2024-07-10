@@ -1349,9 +1349,13 @@ background: linear-gradient(to right, #434343, #000000);
 /* Education Section */
 /* --------------------------------------------------------------------- */
 .education {
-  background: #43C6AC; 
+/*   background: #43C6AC; 
   background: -webkit-linear-gradient(to top, #191654, #43C6AC);
   background: linear-gradient(to top, #191654, #43C6AC);
+ */
+  background: #485563;  
+background: -webkit-linear-gradient(to top, #29323c, #485563); 
+background: linear-gradient(to top, #29323c, #485563); 
 
 color:white;
 padding-top:  50px;
