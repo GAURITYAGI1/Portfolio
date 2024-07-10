@@ -1230,8 +1230,7 @@ ol {
 -----------------------*/
 .contact-widget {
 /*   background: #100028; */
-  background: linear-gradient(90deg, rgba(253,29,29,1) 50%, rgba(19,5,20,1) 100%);
-
+background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
   padding-bottom: 70px;
 }
 
