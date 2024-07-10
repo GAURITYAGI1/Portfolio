@@ -965,6 +965,9 @@ ol {
   font-weight: 300;
   display: inline-block;
 }
+.breadcrum_links p{
+  color:white;
+}
 
 /*---------------------
   About
