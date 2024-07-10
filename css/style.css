@@ -1006,7 +1006,11 @@ ol {
   Services
 -----------------------*/
 .services {
-  background: #100028;
+/*   background: #100028; */
+  background: #141E30;  
+background: -webkit-linear-gradient(to right, #243B55, #141E30);  
+background: linear-gradient(to right, #243B55, #141E30); 
+
   padding-bottom: 60px;
   padding-top: 110px;
 }
