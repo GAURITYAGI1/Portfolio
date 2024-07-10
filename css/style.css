@@ -1263,12 +1263,13 @@ background: linear-gradient(to right, #434343, #000000);
 }
 .contact__widget__item__text h4 {
   font-size: 22px;
-  color: #ffffff;
+  color: white;
   font-weight: 700;
   margin-bottom: 10px;
 }
 .contact__widget__item__text p {
   margin-bottom: 0;
+  color:white;
 }
 
 /*---------------------
