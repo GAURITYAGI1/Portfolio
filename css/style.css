@@ -1349,8 +1349,6 @@ background: linear-gradient(to right, #434343, #000000);
 /* Education Section */
 /* --------------------------------------------------------------------- */
 .education {
-  background:  #f9fbfd;
-  color:white;
   padding-top:  50px;
 }
 .education-horizontal-timeline {
@@ -1378,7 +1376,7 @@ background: linear-gradient(to right, #434343, #000000);
 }
 span.single-timeline-horizontal {
     display:  inline-block;
-    background: #b2c1ce;
+/*     background: #b2c1ce; */
     height:  1px;
     width: 380px;
 }
