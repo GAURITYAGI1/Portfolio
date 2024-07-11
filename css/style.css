@@ -1355,8 +1355,12 @@ background: linear-gradient(to right, #434343, #000000);
 
   color:white;
 }
-.skill-content{padding: 50px 0 80px;}
-.single-skill-content{padding-top: 30px;}
+.skill-content{
+  padding: 50px 0 80px;
+}
+.single-skill-content{
+  padding-top: 30px;
+}
 /* .section-heading h2 {
     font-size: 24px;
     font-weight: 600;
