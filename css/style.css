@@ -1348,7 +1348,10 @@ background: linear-gradient(to right, #434343, #000000);
 
 /* Skills section------------------------------------------------------- */
 .skills {
-    
+    background: #0f0c29;
+background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  
+background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+
 }
 .skill-content{padding: 50px 0 80px;}
 .single-skill-content{padding-top: 100px;}
@@ -1377,8 +1380,9 @@ background: linear-gradient(to right, #434343, #000000);
 .progress {
     border-radius:3px;
     overflow: visible;
-    background: #e6ecf3;
-    height:8px;
+/*     background: #e6ecf3; */
+  background: red;
+    height:6px;
     margin-top: 15px;
     width: 85%;
     margin-bottom: 37px;
