@@ -111,7 +111,8 @@ ol {
   bottom: 0;
   height: 5px;
   width: 70px;
-  background: #00bfe7;
+/*   background: #00bfe7; */
+  background:red;
   content: "";
 }
 
