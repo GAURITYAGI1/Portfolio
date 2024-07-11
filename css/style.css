@@ -1348,10 +1348,11 @@ background: linear-gradient(to right, #434343, #000000);
 
 /* Skills section------------------------------------------------------- */
 .skills {
-    background: #0f0c29;
-background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  
-background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+  background: #bdc3c7;
+  background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7); 
+  background: linear-gradient(to right, #2c3e50, #bdc3c7); 
 
+  color:white;
 }
 .skill-content{padding: 50px 0 80px;}
 .single-skill-content{padding-top: 100px;}
@@ -1360,7 +1361,7 @@ background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
     font-weight: 600;
     text-transform: uppercase;
     padding-bottom: 50px;
-    border-bottom: 1px solid #e5ebf2;
+/*     border-bottom: 1px solid #e5ebf2; */
 }
 .single-progress-txt {
     display: flex;
@@ -1380,15 +1381,16 @@ background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
 .progress {
     border-radius:3px;
     overflow: visible;
-/*     background: #e6ecf3; */
-  background: red;
+    background: #e6ecf3;
+/*   background: red; */
     height:6px;
     margin-top: 15px;
     width: 85%;
     margin-bottom: 37px;
 }
 .progress-bar {
-   background: #b636ff;
+/*    background: #b636ff; */
+  background:blue;
     border-radius: 3px;
    -webkit-transition: width 1.5s ease-in-out;
    -ms-transition: width 1.5s ease-in-out;
