@@ -1356,14 +1356,32 @@ background: linear-gradient(to right, #434343, #000000);
   color:white;
 }
 .skill-content{padding: 50px 0 80px;}
-.single-skill-content{padding-top: 50px;}
-.section-heading h2 {
+.single-skill-content{padding-top: 30px;}
+/* .section-heading h2 {
     font-size: 24px;
     font-weight: 600;
     text-transform: uppercase;
     padding-bottom: 50px;
-/*     border-bottom: 1px solid #e5ebf2; */
+    border-bottom: 1px solid #e5ebf2;
+} */
+.section-heading h2 {
+  color: #ffffff;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+  padding-bottom: 25px;
 }
+.section-heading h2:after {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 5px;
+  width: 70px;
+  background: #00bfe7;
+/*   background:red; */
+  content: "";
+}
+
 .single-progress-txt {
     display: flex;
 }
