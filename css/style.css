@@ -830,17 +830,17 @@ ol {
 }
 
 .footer__option {
-  padding-bottom: 35px;
-  padding-top: 75px;
+  padding-bottom: 20px;
+  padding-top: 60px;
 }
 
 .footer__option__item {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 .footer__option__item h5 {
   color: #ffffff;
   font-weight: 700;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 .footer__option__item p {
   font-weight: 300;
